@@ -1,0 +1,50 @@
+table {
+border-collapse: collapse;
+margin-left:auto;
+margin-right:auto;
+}
+
+table,
+th,
+td {
+border: 1px solid black;
+font-family: Sans-serif, Monospace;
+text-align: center;
+
+}
+
+td {
+width: 150px;
+}
+
+body {
+background-image: url(./images/fcu-logo.png);
+background-repeat: no-repeat;
+background-position: bottom;
+text-align: center;
+}
+
+p {
+font-size: 2em;
+}
+
+#Web程式設計 {
+font-weight: bold;
+}
+
+#header {
+background-color: gray;
+color: white;
+}
+
+#Web程式設計,
+#日文,
+#財產稅理論與制度,
+#通訊與網路概論,
+#資料安全管理,
+#資料結構實習,
+#產業實習導論,
+#班級活動,
+#環境科學概論 {
+background-color: linen;
+}
